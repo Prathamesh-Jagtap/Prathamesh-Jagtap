@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Jagtap</h1>
-<div align="center"> <img src=""> </div>
+<div align="center"> <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/edit/main/profile-banner.png"> </div>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
