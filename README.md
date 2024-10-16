@@ -3,9 +3,14 @@
   <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/blob/main/profile.png" alt="Profile Image"/>
 </div>
 
-<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
+<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
 
+<h3 align="left">Visitor Count:</h3>
 <p align="center">
+  <img src="https://profile-counter.glitch.me/Prathamesh-Jagtap/count.svg" alt="Visitor Count" />
+</p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=prathamesh-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-jagtap" />
   <a href="https://twitter.com/prathammesh7433" target="_blank">
     <img src="https://img.shields.io/twitter/follow/prathammesh7433?logo=twitter&style=for-the-badge" alt="Twitter: prathammesh7433" />
@@ -73,6 +78,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prathamesh-jagtap/Prathamesh-Jagtap/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
