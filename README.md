@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Jagtap</h1>
-<div align="center"> <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Youtube%20Channel%20Banner.png"> </div>
+<div align="center"> <img src=""> </div>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
