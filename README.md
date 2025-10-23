@@ -1,80 +1,102 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Jagtap</h1>
-<div align="center"> 
-  <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/blob/main/profile.png" alt="Profile Image"/>
-</div>
 
-<h3 align="center">A Passionate Full Stack Developer from India 🚀</h3>
-
-<h3 align="left">Visitor Count:</h3>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Prathamesh-Jagtap/count.svg" alt="Visitor Count" />
+  <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/blob/main/profile.png" alt="Profile Image" width="250" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=prathamesh-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-jagtap" />
+<h3 align="center">🚀 A Passionate Full Stack Developer & DevOps Enthusiast from India</h3>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prathamesh-jagtap&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/prathammesh7433" target="_blank">
     <img src="https://img.shields.io/twitter/follow/prathammesh7433?logo=twitter&style=for-the-badge" alt="Twitter: prathammesh7433" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **Streaming Service Application**  
-- 🌱 I’m currently learning **React Native, Apache Kafka, Kubernetes, DevOps**  
-- 💬 Ask me about **Java Full Stack, DevOps**  
-- 📫 Reach me at **prathamesh7433@gmail.com**  
+---
+
+### 👨‍💻 About Me
+
+- 🔭 **Co-Founder** at [Nexturgo](https://nexturgo.com)
+- 💬 Ask me about **Java Full Stack, DevOps, Cloud, and Microservices**
+- 🌱 Currently exploring **Blockchain integration** with Full Stack Applications
+- ⚙️ Building and deploying **Microservice-based Architectures** using **Spring Boot + React + AWS**
+- 🧠 Learning **Kubernetes**, **ArgoCD**, and **GitOps pipelines**
+- 🎯 Motto: *“Automate everything that can be automated.”*
+- 📫 Reach me at: **prathamesh7433@gmail.com**
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+### 🤝 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/prathammesh7433" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathammesh7433" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/prathamesh-jagtap" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prathamesh Jagtap" height="30" width="40" />
-  </a>
+  <a href="https://twitter.com/prathammesh7433" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prathamesh-jagtap" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:prathamesh7433@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+### 🧰 Languages and Tools
+<p align="center">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a>
+  <a href="https://spring.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" /></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40" alt="GraphQL" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" /></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /></a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 🚀 Featured Projects
 
+- 🛒 **E-Commerce Microservices App** – Built with Spring Boot, React, MySQL, and deployed with Jenkins + Docker + K8s
+- 🎥 **Video Streaming Platform** – Netflix-like UI built using React Native & Spring Boot backend
+- 💳 **Razorpay Integration** – Secure payment gateway processing with webhook handling in Spring Boot
+- 🩺 **Fitness Tracker App** – Integrates with Health Connect API to visualize health data in React Native
+- 📊 **Monitoring Stack** – Dockerized Prometheus & Grafana setup for real-time Spring Boot application monitoring
+
+---
+
+### 🏆 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-jagtap&show_icons=true&locale=en&layout=compact" alt="prathamesh-jagtap" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh-jagtap&show_icons=true&locale=en" alt="prathamesh-jagtap" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-jagtap" alt="prathamesh-jagtap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh-jagtap&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-jagtap&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-jagtap&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
+### 🏅 Achievements
+- 🧩 Built and deployed multiple **production-ready microservice applications** from concept to launch.
+- ☁️ Engineered and automated **CI/CD pipelines** using Jenkins, Docker, Kubernetes & ArgoCD.
+- 🛠️ Experienced with setting up **observability stacks**: Prometheus, Grafana, and SonarQube.
+- 💡 Passionate about **system design**, **cloud-native architecture**, and **DevOps culture**.
+
+---
+
+### ⚡ Philosophy
+> “The best engineers don’t just write code — they build systems that evolve.”
+
+---
+
+<p align="center">
+  ⭐ <strong>If you like my work, consider giving a star to my repositories!</strong> ⭐
+</p>
