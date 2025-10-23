@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Jagtap</h1>
 
-<p align="center">
-  <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/blob/main/profile.png" alt="Profile Image" width="250" />
-</p>
+<div align="center"> <img src="https://github.com/Prathamesh-Jagtap/Prathamesh-Jagtap/blob/main/profile.png" alt="Profile Image"/> </div>
 
 <h3 align="center">🚀 A Passionate Full Stack Developer & DevOps Enthusiast from India</h3>
 
